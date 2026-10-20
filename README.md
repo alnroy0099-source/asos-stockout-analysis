@@ -35,19 +35,14 @@ The analysis uses a simplified estimate based on product price multiplied by the
 
 ## Key Findings
 
-- Brand with the highest number of listed products: 
-- Brand with the highest number of explicitly out-of-stock sizes:
-- Total estimated phantom revenue:
+- Brand with the highest number of listed products: Asos design
+- Brand with the highest number of explicitly out-of-stock sizes: Asos design
+- Total estimated phantom revenue: £351,820.88
 - Most important business insight:
-
+  ASOS Design has the highest number of listed products and explicitly out-of-stock sizes, suggesting that stock availability may be an important area to   investigate for this brand. The analysis estimates a potential phantom revenue opportunity of £351,820.88 across the dataset, highlighting the possible commercial value of monitoring size-level stock-outs and improving inventory management. However, this figure is a hypothetical estimate rather than confirmed lost revenue.
 ## Repository Contents
 - ASOS_Stockout_Analysis.py — notebook containing the analysis, calculations, and visualisations.
 - products_asos_sample.csv — source dataset( this is the sample data set not the whole dataset)
-
-## Future Improvements
-- Incorporate historical stock availability data.
-- Use actual sales and conversion data to improve revenue estimates.
-- Build an interactive dashboard for exploring brands and stock-out patterns.
 
 ## Disclaimer
 This is an independent data analytics portfolio project. The estimated metrics are based on the available dataset and assumptions and should not be interpreted as actual ASOS financial results.
