@@ -34,15 +34,15 @@ The analysis uses a simplified estimate based on product price multiplied by the
 **Important limitation:** This is an illustrative proxy, not verified lost revenue. It does not account for customer substitution, actual demand, conversion rates, or whether an unavailable size would have resulted in a sale.
 
 ## Key Findings
-Add your actual findings from the notebook here: 
-- Brand with the highest number of listed products: Asos Design with 1363 products
+
+- Brand with the highest number of listed products: 
 - Brand with the highest number of explicitly out-of-stock sizes:
 - Total estimated phantom revenue:
 - Most important business insight:
 
 ## Repository Contents
-- `ASOS_Stockout_Analysis.ipynb` — notebook containing the analysis, calculations, and visualisations.
-- `products_asos.csv` — source dataset, if redistribution is permitted.
+- ASOS_Stockout_Analysis.py — notebook containing the analysis, calculations, and visualisations.
+- products_asos_sample.csv — source dataset( this is the sample data set not the whole dataset)
 
 ## Future Improvements
 - Incorporate historical stock availability data.
